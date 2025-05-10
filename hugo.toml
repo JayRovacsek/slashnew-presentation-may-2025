@@ -1,0 +1,23 @@
+baseURL = 'https://jayrovacsek.github.io/slashnew-presentation-may-2025/#/'
+languageCode = 'en-au'
+title = 'Rethinking the Building Blocks of Technology'
+theme = ["github.com/dzello/reveal-hugo"]
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+
+[params.reveal_hugo]
+hideInactiveCursor = true
+highlight_theme = "tomorrow-night-blue"
+history = true
+slide_number = true
+theme = "blood"
+transition_speed = 'fast'
+
+[markup.highlight]
+codeFences = false
+
+[markup.goldmark.extensions.extras.superscript]
+enable = true
