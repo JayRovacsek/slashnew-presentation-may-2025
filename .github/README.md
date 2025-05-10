@@ -1,8 +1,8 @@
 # Rethinking the Building Blocks of Technology
 
-![checks](https://github.com/JayRovacsek/slashnew-presentation-may-2025/.github/workflows/checks.yaml/badge.svg)
+[![checks](https://github.com/JayRovacsek/slashnew-presentation-may-2025/actions/workflows/checks.yaml/badge.svg)](https://github.com/JayRovacsek/slashnew-presentation-may-2025/actions/workflows/checks.yaml)
 
-![deploy](https://github.com/JayRovacsek/slashnew-presentation-may-2025/.github/workflows/deploy.yaml/badge.svg)
+[![build and deploy](https://github.com/JayRovacsek/slashnew-presentation-may-2025/actions/workflows/deploy.yaml/badge.svg)](https://github.com/JayRovacsek/slashnew-presentation-may-2025/actions/workflows/deploy.yaml)
 
 Hi there! This repository hosts the content of a talk to be presented in
 May 2025 at [/NEW](http://slashnew.tech/)
